@@ -1,0 +1,91 @@
+
+body
+{
+	background: lightblue;
+	background-image: url("wall.jpg");
+}
+
+#heading 
+{
+	font-family: 'Fredoka One', cursive;
+	color:yellow;
+	font-size:80px;
+}
+
+#heading1 
+{
+	font-size:70px;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		border-radius: 15px;
+		float:none;
+		font-family: 'Fredoka One', cursive;
+		top:60px;
+
+	}
+
+.button1 {
+	font-family: 'Fredoka One', cursive;
+	background-color:yellow;
+	font-size: 25px;
+	position: relative;
+	top:70px;
+}
+
+.button2 {
+	font-family: 'Fredoka One', cursive;
+	background-color:lightskyblue;
+	font-size: 17px;
+}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	font-family:  'Fredoka One', cursive;
+	font-size:30px;
+	color: lawngreen;
+	padding-right:8px;
+}
+
+#player1_score, #player2_score 
+{
+	font-size:30px;
+	font-family:  'Fredoka One', cursive;
+	color:red;
+}
+
+#player_question, #player_answer
+{
+	font-size:30px;
+	font-family:  'Fredoka One', cursive;
+	color:lawngreen;
+}
+
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+h2 
+{
+	font-family: 'Fredoka One', cursive;
+}
+
